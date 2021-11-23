@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @olamic
+- Am a wordpress devloper
 - 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ... Django framework
 - 💞️ I’m looking to collaborate on ... Any idea
